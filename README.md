@@ -9,4 +9,4 @@
 
 ## Check if flights are claimable.
 
-1. From the project root directory start the command: ./vendor/bin/sail artisan app:check-are-flights-claimable
+1. From the project root directory start the command: ./vendor/bin/sail artisan app:check-flights-claimability

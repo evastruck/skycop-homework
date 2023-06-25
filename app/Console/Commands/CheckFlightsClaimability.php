@@ -14,7 +14,7 @@ class CheckFlightsClaimability extends Command
      *
      * @var string
      */
-    protected $signature = 'app:check-are-flights-claimable';
+    protected $signature = 'app:check-flights-claimability';
 
     /**
      * The console command description.
